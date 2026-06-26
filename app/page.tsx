@@ -1,9 +1,9 @@
-import Header from "@/components/layout/Header";
-import HeroSection from "@/components/sections/HeroSection";
-import FeaturesSection from "@/components/sections/FeaturesSection";
-import PricingSection from "@/components/sections/PricingSection";
+import Header from "@/components/layout/head";
+import HeroSection from "@/components/sections/myhero";
+import FeaturesSection from "@/components/sections/featuresec";
+import PricingSection from "@/components/sections/pricesec";
 import SocialProofSection from "@/components/sections/SocialProofSection";
-import FinalCTASection from "@/components/sections/FinalCTASection";
+import FinalCTASection from "@/components/sections/finalsec";
 import Footer from "@/components/layout/Footer";
 
 export default function Home() {
